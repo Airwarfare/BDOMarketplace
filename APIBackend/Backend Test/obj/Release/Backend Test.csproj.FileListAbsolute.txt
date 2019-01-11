@@ -1,0 +1,58 @@
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\obj\Release\Backend Test.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\obj\Release\Backend Test.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Backend Test.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Backend Test.pdb
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\APIBackend.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\APIBackend.pdb
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\obj\Release\Backend Test.csproj.CopyComplete
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\obj\Release\Backend Test.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\obj\Release\Backend Test.pdb
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\MySql.Data.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Google.Protobuf.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\MySql.Data.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Google.Protobuf.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Backend Test.dll.config
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.15.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Threading.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Validation.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\stdole.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\EnvDTE.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.MSXML.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Threading.xml
+C:\Users\Jordan\source\repos\APIBackend\Backend Test\bin\Release\Microsoft.VisualStudio.Validation.xml

@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <script
+        src="https://code.jquery.com/jquery-3.1.1.min.js"
+        integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+        crossorigin="anonymous"></script>
+        <script src="semantic/dist/semantic.min.js"></script>
+        <script src="main.js"></script>
+        <script src="https://momentjs.com/downloads/moment.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.core.min.js"></script>
+    </head>
+    <body style="background-color: #b2bec3;" onload="Init()">
+        <div class="ui inverted menu borderless" style="border-radius:0 !important;">
+            <div class="item">
+                <a onclick="Home()">BDOMP</a>
+            </div>
+            <div class="right item">
+                <div class="ui search" id="search">
+                    <input class="prompt" type="text" placeholder="Search..." oninput="Search(this.value)">
+                    <div class="results"></div>
+                </div>
+            </div>
+        </div>
+        <div style="padding-top: 5%"></div>
+        <div class="ui container">
+            <div id="recent" class="ui inverted segment" style="height: 74%;width: 50%;margin: auto;">
+                <h3 style="display: inline;">Recent Listings</h3>
+                <a onclick="UpdateRecentList()">
+                    <i id="refresh" class="redo icon" style="color: rgba(255,255,255,.9);float: right"></i>
+                </a>
+                <div class="ui checkbox" style="float:right;padding-right: 10px">
+                    <input type="checkbox" name="example">
+                    <label style="color:rgba(255,255,255,.9)">Auto Update</label>
+                </div>
+                <div id="recentItems" class="ui divided items" style="overflow:auto; height:94.5%;">  
+                </div>
+            </div>
+            <div id="marketplaceItem" class="ui inverted segment transition hidden" style="height: 74%;">
+                <h3 id="itemnameheader" style="display: inline;">Item Name</h3>
+                <div class="chart-container" style="height:30%;width:100%">
+                    <canvas id="ecodata"></canvas>
+                </div>
+                <div id="itemListing" class="ui divided items" style="overflow:auto;height: 64%;">
+                    
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
